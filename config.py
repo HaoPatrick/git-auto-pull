@@ -7,5 +7,10 @@ config = {
     "url": "https://github.com/houaa/intropage",
     "path": "/home/hao/intropage",
     "secret": "1234567890"
+  },
+  "git-auto-pull": {
+    "url": "https://github.com/HaoPatrick/git-auto-pull",
+    "path": "/home/hao/auto-pull",
+    "secret": "wklgopiqksjdfp8234"
   }
 }
